@@ -1,3 +1,3 @@
-module github.com/kriticalflare/go-test-mod
+module github.com/kriticalflare/go-mod-test
 
 go 1.20
